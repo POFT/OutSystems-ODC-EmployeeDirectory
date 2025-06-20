@@ -1,7 +1,7 @@
 Becoming a Web Developer:
 - ODC Overview
 - ODC Studio Overview
-- Intro to OutSystems Development
+- Intro to OutSystems Development (Create Employee Directory App)
 - Modeling Data
 - Modeling Data Relationships
 - Data Model Integrity
